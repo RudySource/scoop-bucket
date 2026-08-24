@@ -1,5 +1,5 @@
 {
-    "version": "0.2.1",
+    "version": "0.3.0",
     "description": "Fast, local-first directory navigation for your terminal.",
     "homepage": "https://github.com/RudySource/Dirgo",
     "license": "MIT",
@@ -9,9 +9,9 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/RudySource/Dirgo/releases/download/v0.2.1/dirgo-v0.2.1-x86_64-pc-windows-msvc.zip",
-            "hash": "de9fa0d562d3ca9d577ede1168fdb19f00f3cf6283754aafe96f31624e66675f",
-            "extract_dir": "dirgo-v0.2.1-x86_64-pc-windows-msvc"
+            "url": "https://github.com/RudySource/Dirgo/releases/download/v0.3.0/dirgo-v0.3.0-x86_64-pc-windows-msvc.zip",
+            "hash": "66ac4df5fa0e2bd97417cd2f51f7f9618c32e938442a92b466d97ae953978df9",
+            "extract_dir": "dirgo-v0.3.0-x86_64-pc-windows-msvc"
         }
     },
     "bin": "dgo.exe",
